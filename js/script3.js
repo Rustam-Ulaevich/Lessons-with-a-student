@@ -88,13 +88,12 @@
 // console.log(money);
 // console.log(typeof money);
 
-let money = Symbol('id')
-console.log(money);
-console.log(typeof money);
-money = Boolean(money)     //Symbol в boolean  true
-console.log(money);
-console.log(typeof money);
-
+// let money = Symbol('id')
+// console.log(money);
+// console.log(typeof money);
+// money = Boolean(money)     //Symbol в boolean  true
+// console.log(money);
+// console.log(typeof money);werger
 
 
 
