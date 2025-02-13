@@ -53,14 +53,14 @@
 // console.log(undefined<0);
 
 5 > 4 // true
-console.log(5 > 4);
+// console.log(5 > 4);
 
-"ананас" > "яблоко"
-"2" > "12"
-undefined == null
-undefined === null
-null == "\n0\n"
-null === +"\n0\n"
+// "ананас" > "яблоко"
+// "2" > "12"
+// undefined == null
+// undefined === null
+// null == "\n0\n"
+// null === +"\n0\n"
 
 
 
