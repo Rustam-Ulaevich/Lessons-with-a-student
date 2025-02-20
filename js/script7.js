@@ -93,20 +93,45 @@ let num1 = false || false || !'карта' || false
 // console.log( alert(1) && alert(2));
 // console.log( null || 2 && 3 || 4 );
 
-let value = NaN; //false
-// false ||=
-// true &&=
+// let value = NaN; //false
+// // false ||=
+// // true &&=
 
-value &&= 10;  // value = NaN
-value ||= 20;  // value = 20
-value &&= 30;  // value = 30
-value ||= 40;  // value = 30
+// value &&= 10;  // value = NaN
+// value ||= 20;  // value = 20
+// value &&= 30;  // value = 30
+// value ||= 40;  // value = 30
 
-alert(value);
+// alert(value);
+
+// let age = 14
+//  if (age >= 14 && age <= 90) {
+//     alert (`значение переменной age ${age} находится в диапазоне 14 и 90 включительно`)
+//  } else {
+//     alert (`значение переменной age ${age} HE находится в диапазоне 14 и 90 включительно`)
+// }
 
 
+// let user = prompt('Кто там?')
 
+// if( user === 'Админ'){
 
+//     let parol = prompt('Пароль?')
+
+//     if(parol === 'Я главный'){
+//         alert('Здравствуйте!')
+//     }else if(parol === null || parol === ''){
+//         alert('Отменено')
+//     }else{
+//         alert('Неверный пароль')
+//     }
+
+// }else if ( user === null || user === ''){
+//     alert('Отменено')
+
+// }else(
+//     alert('Я Вас не знаю')
+// )
 
 
 
