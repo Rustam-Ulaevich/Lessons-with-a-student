@@ -32,10 +32,10 @@
 // userAge ??= 18 //  оператор ??= присвоит 18 если userAge не определено (null или undefined)
 
 
-let userAge;
+// let userAge;
 
-userAge ??= alert("не сработает");
-userAge ??= 21;                   
-userAge ??= null;                 
+// userAge ??= alert("не сработает");
+// userAge ??= 21;                   
+// userAge ??= null;                 
 
-alert(userAge)
+// alert(userAge)
