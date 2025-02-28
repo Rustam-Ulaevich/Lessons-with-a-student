@@ -22,9 +22,12 @@
 
 // console.log(sum(2, 3));
 
-function checkAge2(age){age > 18 ? true : confirm('Родители разрешили?')}
+// function checkAge2(age){age > 18 ? true : confirm('Родители разрешили?')}
 
-console.log(checkAge2(25));
+// console.log(checkAge2(25));
+
+// alert()
+
 
 
 
