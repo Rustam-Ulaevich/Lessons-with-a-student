@@ -32,10 +32,10 @@
 
 9. 
 
-function multiplicationTable(n) {
-    for (let i = 1; i <= 10; i++) {
-        console.log(`${n} * ${i} = ${n * i}`);
-    }
-}
+// function multiplicationTable(n) {
+//     for (let i = 1; i <= 10; i++) {
+//         console.log(`${n} * ${i} = ${n * i}`);
+//     }
+// }
 
-multiplicationTable(5); // Ожидаемый результат: 5 * 1 = 5, 5 * 2 = 10, ..., 5 * 10 = 50
+// multiplicationTable(5); // Ожидаемый результат: 5 * 1 = 5, 5 * 2 = 10, ..., 5 * 10 = 50
